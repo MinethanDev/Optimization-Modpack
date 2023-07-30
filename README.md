@@ -13,7 +13,7 @@ On the left, a screenshot taken in vanilla, on the right, a screenshot taken wit
 An approximate **325%** increase in FPS
 
 ## Mods list
-- [Fabric](https://fabricmc.net/use/installer/) : Fabric is a lightweight, experimental modding toolchain for Minecraft.(**REQUIRED**)
+- [Fabric](https://fabricmc.net/use/installer/) : Fabric is a lightweight, experimental modding toolchain for Minecraft. (**REQUIRED**)
 
 - [Fabric API](https://modrinth.com/mod/fabric-api) : Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. (**REQUIRED**)
 
