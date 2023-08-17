@@ -37,6 +37,9 @@ An approximate **325%** increase in FPS
 - [Chat Heads](https://modrinth.com/mod/chat-heads) : See who you're chatting with!
 - [Continuity](https://modrinth.com/mod/continuity) : A Fabric mod that allows for efficient connected textures
 - [Blur](https://modrinth.com/mod/blur-fabric) : Adds a blur effect to all GUI backgrounds - now for Fabric!
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) : Improve performance when Minecraft is in the background.
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) : Speed up immediate mode rendering in Minecraft.
+- [Fastload](https://modrinth.com/mod/fastload) : Modifies how worlds are loaded to speed up loading times.
 
 ## Credits
 Assembling and creating the modpack - [Minethan](https://github.com/MinethanDev)
